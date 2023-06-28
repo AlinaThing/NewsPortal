@@ -1,0 +1,56 @@
+
+.navbar-toggler {
+  background-color:grey; /* Replace "red" with the desired color */
+  /* Add any other styling properties as needed */
+  margin-right: 40px;
+  border-color:rgb(224, 216, 216);
+}
+
+/* .nav-item .nav-link:hover .badge {
+  background-color: #dc3545 !important;
+  color: #fff !important;
+} */
+
+
+
+.navbar-toggler:hover {
+  background-color:#FBFFDC;
+  /* Add any other styles you want for the hover effect */
+}
+
+.logout-icon {
+  position: relative;
+  display: inline-block;
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.logout-icon:hover .logout {
+  display: block;
+}
+
+.logout {
+  position: absolute;
+  top: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: none;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

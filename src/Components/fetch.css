@@ -1,0 +1,10 @@
+.badge:hover{
+    background-color:#79E0EE!important;
+    color: black;
+    /* color: #fff !important; */
+  }
+
+  /* .style{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(118, 27, 27));
+    background:linear-gradient(135deg, #00feba,#5b548a) ;
+  } */
